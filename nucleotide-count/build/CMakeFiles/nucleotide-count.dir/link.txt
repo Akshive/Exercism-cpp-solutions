@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/nucleotide-count.dir/nucleotide_count_test.cpp.o CMakeFiles/nucleotide-count.dir/nucleotide_count.cpp.o CMakeFiles/nucleotide-count.dir/test/tests-main.cpp.o  -o nucleotide-count 
