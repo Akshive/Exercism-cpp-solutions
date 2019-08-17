@@ -1,3 +1,4 @@
 # Exercism-cpp-solutions
-C++ track solutions of Exercism
+C++ track solutions of Exercism.
+
 Feel free to improve the solution.
