@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/isogram.dir/isogram_test.cpp.o CMakeFiles/isogram.dir/isogram.cpp.o CMakeFiles/isogram.dir/test/tests-main.cpp.o  -o isogram 

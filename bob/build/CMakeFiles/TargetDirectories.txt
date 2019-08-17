@@ -1,0 +1,4 @@
+/home/akshive/exercism/cpp/bob/build/CMakeFiles/edit_cache.dir
+/home/akshive/exercism/cpp/bob/build/CMakeFiles/bob.dir
+/home/akshive/exercism/cpp/bob/build/CMakeFiles/rebuild_cache.dir
+/home/akshive/exercism/cpp/bob/build/CMakeFiles/test_bob.dir

@@ -1,0 +1,4 @@
+/home/akshive/exercism/cpp/isogram/build/CMakeFiles/rebuild_cache.dir
+/home/akshive/exercism/cpp/isogram/build/CMakeFiles/edit_cache.dir
+/home/akshive/exercism/cpp/isogram/build/CMakeFiles/isogram.dir
+/home/akshive/exercism/cpp/isogram/build/CMakeFiles/test_isogram.dir

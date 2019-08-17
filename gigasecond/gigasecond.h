@@ -1,0 +1,2 @@
+#define GIGASECOND_H
+
