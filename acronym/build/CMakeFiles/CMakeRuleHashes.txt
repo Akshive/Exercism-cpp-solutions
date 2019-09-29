@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+f756030b960509aea09864155d252e26 CMakeFiles/test_acronym

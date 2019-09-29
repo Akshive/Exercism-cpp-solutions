@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/acronym.dir/acronym_test.cpp.o CMakeFiles/acronym.dir/acronym.cpp.o CMakeFiles/acronym.dir/test/tests-main.cpp.o  -o acronym 

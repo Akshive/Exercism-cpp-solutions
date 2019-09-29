@@ -1,0 +1,4 @@
+/home/akshive/exercism/cpp/acronym/build/CMakeFiles/rebuild_cache.dir
+/home/akshive/exercism/cpp/acronym/build/CMakeFiles/acronym.dir
+/home/akshive/exercism/cpp/acronym/build/CMakeFiles/edit_cache.dir
+/home/akshive/exercism/cpp/acronym/build/CMakeFiles/test_acronym.dir
