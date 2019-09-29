@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/matching-brackets.dir/matching_brackets_test.cpp.o CMakeFiles/matching-brackets.dir/matching_brackets.cpp.o CMakeFiles/matching-brackets.dir/test/tests-main.cpp.o  -o matching-brackets 
